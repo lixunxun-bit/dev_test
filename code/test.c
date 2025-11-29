@@ -20,8 +20,14 @@ void swap(int *a, int *b)
 
 int arr_sum(int* arr, int len)
 {
-    return 0;
+    int sum = 0;
+    for (int i = 0; i < len; i++)
+    {
+        sum += arr[i];
+    }
+    return sum;
 }
+
 
 int main()
 {   
