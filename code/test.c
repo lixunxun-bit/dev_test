@@ -18,6 +18,11 @@ void swap(int *a, int *b)
     printf("hello");
 }
 
+int arr_sum(int* arr, int len)
+{
+    return 0;
+}
+
 int main()
 {   
     int a = 1;
