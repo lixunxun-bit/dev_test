@@ -2,6 +2,11 @@
 
 #include <stdio.h>
 
+// 这是你写的代码
+
+
+
+// 这是我写的
 void swap(int *a, int *b)
 {
     int tmp = *a;
