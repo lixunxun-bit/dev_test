@@ -3,6 +3,13 @@
 #include <stdio.h>
 
 // 这是你写的代码
+int sum()
+{
+
+
+
+    return 0;
+}
 
 
 
@@ -13,6 +20,7 @@ void swap(int *a, int *b)
     *a = *b;
     *b = tmp;
     printf("&asdffadsafsd");
+    printf("hello");
 }
 
 
