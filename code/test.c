@@ -5,13 +5,8 @@
 // 这是你写的代码
 int sum()
 {
-
-
-
     return 0;
 }
-
-
 
 // 这是我写的
 void swap(int *a, int *b)
@@ -22,7 +17,6 @@ void swap(int *a, int *b)
     printf("&asdffadsafsd");
     printf("hello");
 }
-
 
 int main()
 {   
